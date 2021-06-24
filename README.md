@@ -1,7 +1,7 @@
 -<h2 align="Center">  Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 
-**I am Raju Ranjan, pursuing **Electronics and Communication Engineering** B.Tech. at **National Institute of Technology Patna** .**
+**I am Shruti Sinha, pursuing **Electronics and Communication Engineering** B.Tech. at **National Institute of Technology Patna** .**
 
 **ABOUT ME**
 -🌱 I’m currently strngthening my Data structure and Competitive Programing skill.
