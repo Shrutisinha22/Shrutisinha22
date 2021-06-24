@@ -20,5 +20,5 @@
 <br>
 <hr>
 
-:pencil: [Resume](https://github.com/rajutges/resume/blob/main/r_resume.pdf)  |
+:pencil: [Resume](https://github.com/Shrutisinha22/resume/blob/main/resume.pdf)  |
 
