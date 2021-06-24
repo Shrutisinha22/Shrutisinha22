@@ -20,3 +20,5 @@
 <br>
 <hr>
 
+:pencil: [Resume](https://github.com/rajutges/resume/blob/main/r_resume.pdf)  |
+
