@@ -4,7 +4,7 @@
 **I am Shruti Sinha, pursuing **Electronics and Communication Engineering** B.Tech. at **National Institute of Technology Patna** .**
 
 **ABOUT ME**
--🌱 I’m currently strngthening my Data structure and Competitive Programing skill.
+-🌱 I’m currently strengthening my Data structure and Competitive Programing skill.
 - 📫 How to reach me: ...
 
 
